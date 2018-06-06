@@ -12,3 +12,5 @@ datagroup: ssg_dashboard_dsoosai_default_datagroup {
 }
 
 persist_with: ssg_dashboard_dsoosai_default_datagroup
+
+explore: hss_company_level_ssg_monthly_facts {}
